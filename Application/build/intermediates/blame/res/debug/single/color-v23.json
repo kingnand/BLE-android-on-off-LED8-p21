@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "/home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_seek_thumb.xml",
+        "source": "/home/kingnand/.android/build-cache/4bf6149f3686416bc042f4e5f385f2842349db28/output/res/color-v23/abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "/home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_borderless_text_material.xml",
+        "source": "/home/kingnand/.android/build-cache/4bf6149f3686416bc042f4e5f385f2842349db28/output/res/color-v23/abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "/home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/color-v23/abc_color_highlight_material.xml",
+        "source": "/home/kingnand/.android/build-cache/4bf6149f3686416bc042f4e5f385f2842349db28/output/res/color-v23/abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "/home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/color-v23/abc_btn_colored_text_material.xml",
+        "source": "/home/kingnand/.android/build-cache/4bf6149f3686416bc042f4e5f385f2842349db28/output/res/color-v23/abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "/home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_btn_checkable.xml",
+        "source": "/home/kingnand/.android/build-cache/4bf6149f3686416bc042f4e5f385f2842349db28/output/res/color-v23/abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "/home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_thumb.xml",
+        "source": "/home/kingnand/.android/build-cache/4bf6149f3686416bc042f4e5f385f2842349db28/output/res/color-v23/abc_tint_switch_thumb.xml"
+    },
+    {
+        "merged": "/home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_switch_track.xml",
+        "source": "/home/kingnand/.android/build-cache/4bf6149f3686416bc042f4e5f385f2842349db28/output/res/color-v23/abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "/home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_default.xml",
+        "source": "/home/kingnand/.android/build-cache/4bf6149f3686416bc042f4e5f385f2842349db28/output/res/color-v23/abc_tint_default.xml"
+    },
+    {
+        "merged": "/home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_spinner.xml",
+        "source": "/home/kingnand/.android/build-cache/4bf6149f3686416bc042f4e5f385f2842349db28/output/res/color-v23/abc_tint_spinner.xml"
+    },
+    {
+        "merged": "/home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/color-v23/abc_tint_edittext.xml",
+        "source": "/home/kingnand/.android/build-cache/4bf6149f3686416bc042f4e5f385f2842349db28/output/res/color-v23/abc_tint_edittext.xml"
+    }
+]

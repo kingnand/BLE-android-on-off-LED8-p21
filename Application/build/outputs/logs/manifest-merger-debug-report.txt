@@ -1,0 +1,111 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:20:1-50:12
+	package
+		ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:21:5-50
+	android:versionName
+		ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:23:5-30
+		INJECTED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+	android:versionCode
+		ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:22:5-28
+		INJECTED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:20:11-69
+uses-feature#android.hardware.bluetooth_le
+ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:31:5-89
+	android:required
+		ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:31:64-87
+	android:name
+		ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:31:19-63
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:33:5-67
+	android:name
+		ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:33:22-65
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:34:5-73
+	android:name
+		ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:34:22-71
+application
+ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:36:5-48:19
+MERGED from [com.android.support:support-v13:25.3.1] /home/kingnand/.android/build-cache/0a71d5c1b6884026271a3c27193ec0bbb11677b4/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/kingnand/.android/build-cache/07a0e380ae2c90b2e60d274cf34e3802bcee0a47/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/kingnand/.android/build-cache/4bf6149f3686416bc042f4e5f385f2842349db28/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/kingnand/.android/build-cache/0479c9b1a6d0a7d4413806e77a99921b8bcdb0c6/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/kingnand/.android/build-cache/a4623cb7bf2d332deede2c39e528ab5b10570fbd/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/kingnand/.android/build-cache/855aa660951a9346fc1a15449e721d1aeab542fe/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/kingnand/.android/build-cache/86535c1bdf99a07c10003771d265800065c37436/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/kingnand/.android/build-cache/278f4248c2dfe3b3aca186d9974989005bbf8579/output/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/kingnand/.android/build-cache/8d2f28dfbc027bd0909fca41c40c0842344e10d2/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/kingnand/.android/build-cache/138e54f33d84f3dd8c55f12d8d3a96e23c045297/output/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/kingnand/.android/build-cache/1ab94d16436ac4d8f0eaf3633f9facac8cc4bc3d/output/AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:36:18-50
+	android:icon
+		ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:37:9-45
+	android:theme
+		ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:38:9-56
+activity#com.example.android.bluetoothlegatt.DeviceScanActivity
+ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:39:9-45:20
+	android:label
+		ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:40:13-45
+	android:name
+		ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:39:19-53
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:41:13-44:29
+action#android.intent.action.MAIN
+ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:42:17-68
+	android:name
+		ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:42:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:43:17-76
+	android:name
+		ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:43:27-74
+activity#com.example.android.bluetoothlegatt.DeviceControlActivity
+ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:46:9-58
+	android:name
+		ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:46:19-56
+service#com.example.android.bluetoothlegatt.BluetoothLeService
+ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:47:9-77
+	android:enabled
+		ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:47:53-75
+	android:name
+		ADDED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml:47:18-52
+uses-sdk
+INJECTED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:support-v13:25.3.1] /home/kingnand/.android/build-cache/0a71d5c1b6884026271a3c27193ec0bbb11677b4/output/AndroidManifest.xml:21:5-23:55
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/kingnand/.android/build-cache/07a0e380ae2c90b2e60d274cf34e3802bcee0a47/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/kingnand/.android/build-cache/4bf6149f3686416bc042f4e5f385f2842349db28/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] /home/kingnand/.android/build-cache/0479c9b1a6d0a7d4413806e77a99921b8bcdb0c6/output/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] /home/kingnand/.android/build-cache/a4623cb7bf2d332deede2c39e528ab5b10570fbd/output/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/kingnand/.android/build-cache/855aa660951a9346fc1a15449e721d1aeab542fe/output/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/kingnand/.android/build-cache/86535c1bdf99a07c10003771d265800065c37436/output/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/kingnand/.android/build-cache/278f4248c2dfe3b3aca186d9974989005bbf8579/output/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/kingnand/.android/build-cache/8d2f28dfbc027bd0909fca41c40c0842344e10d2/output/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/kingnand/.android/build-cache/138e54f33d84f3dd8c55f12d8d3a96e23c045297/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] /home/kingnand/.android/build-cache/1ab94d16436ac4d8f0eaf3633f9facac8cc4bc3d/output/AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:support-v13:25.3.1] /home/kingnand/.android/build-cache/0a71d5c1b6884026271a3c27193ec0bbb11677b4/output/AndroidManifest.xml:23:9-52
+	android:targetSdkVersion
+		INJECTED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+		INJECTED from /home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/src/main/AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:support-v13:25.3.1] /home/kingnand/.android/build-cache/0a71d5c1b6884026271a3c27193ec0bbb11677b4/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/kingnand/.android/build-cache/07a0e380ae2c90b2e60d274cf34e3802bcee0a47/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/kingnand/.android/build-cache/4bf6149f3686416bc042f4e5f385f2842349db28/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/kingnand/.android/build-cache/0479c9b1a6d0a7d4413806e77a99921b8bcdb0c6/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/kingnand/.android/build-cache/a4623cb7bf2d332deede2c39e528ab5b10570fbd/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/kingnand/.android/build-cache/855aa660951a9346fc1a15449e721d1aeab542fe/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/kingnand/.android/build-cache/86535c1bdf99a07c10003771d265800065c37436/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/kingnand/.android/build-cache/278f4248c2dfe3b3aca186d9974989005bbf8579/output/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/kingnand/.android/build-cache/8d2f28dfbc027bd0909fca41c40c0842344e10d2/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/kingnand/.android/build-cache/138e54f33d84f3dd8c55f12d8d3a96e23c045297/output/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/kingnand/.android/build-cache/1ab94d16436ac4d8f0eaf3633f9facac8cc4bc3d/output/AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:support-v13:25.3.1] /home/kingnand/.android/build-cache/0a71d5c1b6884026271a3c27193ec0bbb11677b4/output/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:support-v13:25.3.1] /home/kingnand/.android/build-cache/0a71d5c1b6884026271a3c27193ec0bbb11677b4/output/AndroidManifest.xml:26:9-47

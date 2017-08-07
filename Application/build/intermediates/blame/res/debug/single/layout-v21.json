@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/layout-v21/notification_action.xml",
+        "source": "/home/kingnand/.android/build-cache/4bf6149f3686416bc042f4e5f385f2842349db28/output/res/layout-v21/notification_action.xml"
+    },
+    {
+        "merged": "/home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/home/kingnand/.android/build-cache/4bf6149f3686416bc042f4e5f385f2842349db28/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/home/kingnand/.android/build-cache/4bf6149f3686416bc042f4e5f385f2842349db28/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/home/kingnand/AndroidStudioProjects/BluetoothLeGatt/Application/build/intermediates/res/merged/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/home/kingnand/.android/build-cache/4bf6149f3686416bc042f4e5f385f2842349db28/output/res/layout-v21/notification_template_custom_big.xml"
+    }
+]
